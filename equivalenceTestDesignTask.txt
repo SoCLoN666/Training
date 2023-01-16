@@ -1,0 +1,16 @@
+What needs to be done: 
+	Task1. Use equivalence partition test design technique to get the set of test data;
+    	Task2. Design test cases using set of test data from task 1;
+	Task3. Create a set of test cases in English. Use next template table
+
+| # | TestCase name | Pre-condition | Test data | Test step | Expected result |
+| 1 | ...           | ...           | ...       | ...       | ...             |
+
+
+Task: There's a captcha that checks that user is able to pick at the same time 3 different colours.
+On the screen user sees next colours: light red, dark green, regular brown, white, dark red, light green, regular red, dark brown, regular orange, regular green, light brown, dark orange, light yellow
+
+Flow: add new file in you local repo, add set of test data and tests into that file. Then push to remote: https://github.com/SoCLoN666/Training
+
+
+Note: you can ask up to 3 questions
