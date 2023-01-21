@@ -1,0 +1,7 @@
+cd nameofFolder - відкриває вказану папку
+ls - показує вміст папки
+touch filename.format - створює файл
+start filename - відкриває файл
+rm filename - видалити файл
+mkdir foldername - Створює папку
+rm -rf foldername - видалити папку
