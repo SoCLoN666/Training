@@ -1,0 +1,17 @@
+Two value boundary analysis test design technique
+Task:
+Tech company has 5 different levels of salary:
+1. Lowest salary: 8000
+2. Lower-end salary: 10000
+3. Medium salary: 13000
+4. High-end salary: 15000
+5. Highest salary: 20000
+For each salary lever there's different taxes being paid:
+1. 10%
+2. 12%
+3. 15%
+4. 18%
+5. 21%
+If company is paying less than lowest salary, company will pay fine that will be equal to 100% from lowest salary for each 25% of discrepancy between paid amount and lowest salary. If company is paying more than highest salary, then for each 20% above highest, taxes will be increased by 4%, until salary will reach 2x amount of highest salary. If payed amount is bigger than 2x of highest salary then company will be shut down.
+
+You have up to 3 questions
