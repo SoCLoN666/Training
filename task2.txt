@@ -1,0 +1,15 @@
+Three value boundary test design
+Task: You are testing the web site on different resolution. You are testing implementation of new modal window. This modal will have different view based on screen resolution. Website supports 6 different resolutions, which are next:
+1. < 360
+2. 360-479
+3. 480-839
+4. 840-1019
+5. 1020-1279
+6. 1280+
+
+Based on given task use three value boundary test design to get required resolutions on which you will test the modal view and how it change
+1. Get data set
+2. Write test cases
+3. Push cases to remote repo
+
+Up to 3 questions allow

@@ -1,7 +1,0 @@
-Sessions.
-Timeline of a session is 45min
-Frequency 3-4 times a week
-Each session will contain homework on GitHub repo: https://github.com/SoCLoN666/Training.
-Homework should be done in the git repo and pushed to remote once done
-Session 1 will be introductory. 
-Starting from Session 2 there will be different topics discussed with homework associated with the topic

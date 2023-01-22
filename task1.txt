@@ -1,0 +1,22 @@
+Two value boundary test design
+Task: Company provides five salary gradation levels per month:
+a. Lowest salary: 8000
+b. Low-end salary: 10000
+c. Medium salary: 13000
+d. High-end salary: 15000
+e. Highest salary: 20000
+Based on income different amount of taxes being payed.
+a. for lowest salary: 10%
+b. for low-end salary: 13%
+c. for medium salary: 15%
+d. for high-end salary: 18%
+e. for highest salary: 21%
+If salary is lower than lowest value, company pays penalty: 100% of the lowest salary for each 25% discrepancy between lowest salary and salary being paid
+If salary is higher that highest salary, tax is increased by 5% for each 20% of increase. Note, max salary must not be bigger than 2x of Highest salary. If this will happen, company will be shut down
+
+To Do: use two value boundary to calculate all possible companies spendings and outcomes based on the task.
+1. Get data set
+2. Write test cases
+3. Push cases to remote repo
+
+Up to 3 questions allow
