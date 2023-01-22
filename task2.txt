@@ -1,0 +1,15 @@
+Three value boundary
+
+Task: You are testing web site. This web site supports 6 different resolutions. Currently you are testing modal window. This modal window looks different on each resolution
+Supported resolutions are next:
+1. Mobile low: < 360px
+2. Mobile regular: 360-479px
+3. Tablet low: 480-839px
+4. Tablet regular: 840-1019px
+5. Nettop: 1020-1279px
+6. Desktop: 1280px+
+
+Specify different boundaries using Three value boundary technique, write data set, test cases and push to remote
+
+
+You have up to 1 question
